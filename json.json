@@ -1,0 +1,118 @@
+{
+  "destinos": [
+    {
+      "id": 1,
+      "nome": "Rio de Janeiro",
+      "imagem": "imagens/rio.jpg",
+      "descricao": "Cidade vibrante com praias deslumbrantes como Copacabana e Ipanema, perfeita para quem busca beleza natural e diversão!",
+      "detalhes": {
+        "paisagens": "Vistas incríveis de montanhas, praias e mar",
+        "pontosTuristicos": [
+          "Cristo Redentor",
+          "Pão de Açúcar",
+          "Praias de Copacabana e Ipanema",
+          "Museu do Amanhã",
+          "Bairro da Lapa"
+        ],
+        "cultura": "Famoso pelo Carnaval, com desfiles de escolas de samba",
+        "clima": "Tropical, com temperaturas elevadas na maior parte do ano",
+        "locomocao": "Metrô, ônibus e táxis. Use aplicativos para maior segurança"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Nova York",
+      "imagem": "imagens/ny-1.jpg",
+      "descricao": "A cidade que nunca dorme, com arranha-céus impressionantes e atrações icônicas como a Estátua da Liberdade.",
+      "detalhes": {
+        "paisagens": "Arranha-céus e parques urbanos extensos",
+        "pontosTuristicos": [
+          "Estátua da Liberdade",
+          "Times Square",
+          "Central Park",
+          "Empire State Building",
+          "Broadway"
+        ],
+        "cultura": "Centro cultural global com museus famosos",
+        "clima": "Verões quentes e invernos frios com neve",
+        "locomocao": "Sistema de metrô extenso e táxis amarelos"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Cancún",
+      "imagem": "imagens/cancun.jpg",
+      "descricao": "Praias de areia branca e águas cristalinas, perfeito para relaxamento e aventuras aquáticas.",
+      "detalhes": {
+        "paisagens": "Praias paradisíacas com areia branca",
+        "pontosTuristicos": [
+          "Zona Hoteleira",
+          "Chichén Itzá",
+          "Isla Mujeres",
+          "Xcaret Park",
+          "Tulum"
+        ],
+        "cultura": "Rica herança maia combinada com resorts modernos",
+        "clima": "Tropical quente durante todo o ano",
+        "locomocao": "Ônibus urbanos e aluguel de carros"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Paris",
+      "imagem": "imagens/paris.jpg",
+      "descricao": "Cidade do amor, conhecida pela Torre Eiffel, museus incríveis e uma gastronomia de classe mundial.",
+      "detalhes": {
+        "paisagens": "Arquitetura clássica e rio Sena",
+        "pontosTuristicos": [
+          "Torre Eiffel",
+          "Museu do Louvre",
+          "Arco do Triunfo",
+          "Catedral de Notre-Dame",
+          "Montmartre"
+        ],
+        "cultura": "Centro de arte e moda mundial",
+        "clima": "Temperado com estações bem definidas",
+        "locomocao": "Metrô eficiente e sistema de bicicletas"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Tóquio",
+      "imagem": "imagens/toquio.jpg",
+      "descricao": "Metrópole futurista que combina tecnologia avançada com tradições seculares.",
+      "detalhes": {
+        "paisagens": "Arranha-céus modernos e templos tradicionais",
+        "pontosTuristicos": [
+          "Shibuya Crossing",
+          "Torre de Tóquio",
+          "Templo Senso-ji",
+          "Parque Ueno",
+          "Distrito de Akihabara"
+        ],
+        "cultura": "Mistura de tradição e tecnologia",
+        "clima": "Úmido subtropical com verões quentes",
+        "locomocao": "Sistema de metrô mais movimentado do mundo"
+      }
+    },
+    {
+      "id": 6,
+      "nome": "Roma",
+      "imagem": "imagens/roma.jpg",
+      "descricao": "Cidade eterna com monumentos históricos impressionantes e uma rica herança cultural.",
+      "detalhes": {
+        "paisagens": "Ruínas antigas e arquitetura renascentista",
+        "pontosTuristicos": [
+          "Coliseu",
+          "Fórum Romano",
+          "Fontana di Trevi",
+          "Pantheon",
+          "Vaticano"
+        ],
+        "cultura": "Berço da civilização ocidental",
+        "clima": "Mediterrâneo com invernos amenos",
+        "locomocao": "Metrô limitado, melhor explorar a pé"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+#logo{
+    max-width: 80px;
+}
+.carousel-inner{
+    height: 450px;
+    width: auto;
+    
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    margin-top: 10px;
+}
+
+.container-cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: yellow;
+}
+
+#container-cards {
+    display: flex;             
+    flex-wrap: wrap;           /* Permite que os itens quebrem para a próxima linha */
+    gap: 20px;                 /* Espaço entre os cards */
+    justify-content: space-around; /* Alinha os cards com espaçamento entre eles */
+    padding: 20px 0;           /* Ajusta o espaçamento superior e inferior */
+}
